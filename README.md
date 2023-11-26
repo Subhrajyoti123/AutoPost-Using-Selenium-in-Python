@@ -1,1 +1,1 @@
-# AutoPost-Using-Selenium-in-Python
+# myblog-Using-Django-in-Python
